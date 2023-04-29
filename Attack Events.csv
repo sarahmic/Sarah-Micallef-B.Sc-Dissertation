@@ -1,48 +1,48 @@
 MatchID,HomeTeamName,AwayTeamName,PlayerID,PlayerName,PlayerSurname,PlayedTime,StatsID,StatsName,Value,Rank,Team,Position ,Location,Opposition,Home/Away ,FractionTime,Team Index,Opp Index,Player Name 
-2024479,Belgium,Portugal,250042521,,André Silva,1559,4,Attempts on target,1,2,Portugal,Attack ,Spain,Belgium,0,0.288703704,15,2, André Silva
-2024455,Hungary,Portugal,250042521,,André Silva,868,4,Attempts on target,0,8,Portugal,Attack ,Hungary,Hungary,0,0.160740741,15,10, André Silva
-2024466,Portugal,Germany,250042521,,André Silva,684,4,Attempts on target,0,7,Portugal,Attack ,Germany,Germany,0,0.126666667,15,9, André Silva
-2024479,Belgium,Portugal,250059115,,Bernardo Silva,3454,4,Attempts on target,0,6,Portugal,Attacking Midfield ,Spain,Belgium,0,0.63962963,15,2, Bernardo Silva
-2024455,Hungary,Portugal,250059115,,Bernardo Silva,4268,4,Attempts on target,0,8,Portugal,Attacking Midfield ,Hungary,Hungary,0,0.79037037,15,10, Bernardo Silva
-2024476,Portugal,France,250059115,,Bernardo Silva,4626,4,Attempts on target,0,8,Portugal,Attacking Midfield ,Hungary,France,0,0.856666667,15,8, Bernardo Silva
-2024466,Portugal,Germany,250059115,,Bernardo Silva,2884,4,Attempts on target,0,7,Portugal,Attacking Midfield ,Germany,Germany,0,0.534074074,15,9, Bernardo Silva
-2024479,Belgium,Portugal,250078886,,Bruno Fernandes,2432,4,Attempts on target,0,6,Portugal,Attacking Midfield ,Spain,Belgium,0,0.45037037,15,2, Bruno Fernandes
-2024455,Hungary,Portugal,250078886,,Bruno Fernandes,5353,4,Attempts on target,1,4,Portugal,Attacking Midfield ,Hungary,Hungary,0,0.991296296,15,10, Bruno Fernandes
-2024476,Portugal,France,250078886,,Bruno Fernandes,1392,4,Attempts on target,0,8,Portugal,Attacking Midfield ,Hungary,France,0,0.257777778,15,8, Bruno Fernandes
-2024466,Portugal,Germany,250078886,,Bruno Fernandes,4002,4,Attempts on target,0,7,Portugal,Attacking Midfield ,Germany,Germany,0,0.741111111,15,9, Bruno Fernandes
-2024467,Switzerland,Turkey,62309,,Burak Yilmaz,5679,4,Attempts on target,0,8,Turkey,Attack ,Azerbaijan,Switzerland,0,1.051666667,22,21, Burak Yilmaz
-2024447,Turkey,Italy,62309,,Burak Yilmaz,5640,4,Attempts on target,0,6,Turkey,Attack ,Italy,Italy,0,1.044444444,22,11, Burak Yilmaz
-2024467,Switzerland,Turkey,250082680,,Cengiz Ünder,4837,4,Attempts on target,0,8,Turkey,Attack,Azerbaijan,Switzerland,0,0.895740741,22,21, Cengiz Ünder
-2024447,Turkey,Italy,250082680,,Cengiz Ünder,2884,4,Attempts on target,0,6,Turkey,Attack,Italy,Italy,0,0.534074074,22,11, Cengiz Ünder
-2024479,Belgium,Portugal,250080471,,Diogo Jota,4327,4,Attempts on target,0,6,Portugal,Attack ,Spain,Belgium,0,0.801296296,15,2, Diogo Jota
-2024455,Hungary,Portugal,250080471,,Diogo Jota,4897,4,Attempts on target,2,1,Portugal,Attack ,Hungary,Hungary,0,0.906851852,15,10, Diogo Jota
-2024476,Portugal,France,250080471,,Diogo Jota,6018,4,Attempts on target,0,8,Portugal,Attack ,Hungary,France,0,1.114444444,15,8, Diogo Jota
-2024466,Portugal,Germany,250080471,,Diogo Jota,5144,4,Attempts on target,1,3,Portugal,Attack ,Germany,Germany,0,0.952592593,15,9, Diogo Jota
-2024482,Croatia,Spain,250088320,,Ferran Torres,5318,4,Attempts on target,1,4,Spain,Attack,Denmark,Croatia,0,0.984814815,19,3, Ferran Torres
-2024489,Italy,Spain,250088320,,Ferran Torres,3665,4,Attempts on target,0,6,Spain,Attack,England,Italy,0,0.678703704,19,11, Ferran Torres
-2024473,Slovakia,Spain,250088320,,Ferran Torres,1730,4,Attempts on target,1,3,Spain,Attack,Spain,Slovakia,1,0.32037037,19,18, Ferran Torres
-2024463,Spain,Poland,250088320,,Ferran Torres,2051,4,Attempts on target,0,5,Spain,Attack,Spain,Poland,1,0.379814815,19,14, Ferran Torres
-2024453,Spain,Sweden,250088320,,Ferran Torres,4461,4,Attempts on target,1,2,Spain,Attack,Spain,Sweden,1,0.826111111,19,20, Ferran Torres
-2024485,Switzerland,Spain,250088320,,Ferran Torres,5705,4,Attempts on target,0,10,Spain,Attack,Russia,Switzerland,0,1.056481481,19,21, Ferran Torres
-2024489,Italy,Spain,250074565,,Gerard Moreno,3239,4,Attempts on target,0,6,Spain,Attack,England,Italy,0,0.599814815,19,11, Gerard Moreno
-2024473,Slovakia,Spain,250074565,,Gerard Moreno,4842,4,Attempts on target,1,3,Spain,Attack,Spain,Slovakia,1,0.896666667,19,18, Gerard Moreno
-2024463,Spain,Poland,250074565,,Gerard Moreno,4110,4,Attempts on target,0,5,Spain,Attack,Spain,Poland,1,0.761111111,19,14, Gerard Moreno
-2024453,Spain,Sweden,250074565,,Gerard Moreno,1368,4,Attempts on target,1,2,Spain,Attack,Spain,Sweden,1,0.253333333,19,20, Gerard Moreno
-2024485,Switzerland,Spain,250074565,,Gerard Moreno,4344,4,Attempts on target,3,1,Spain,Attack,Russia,Switzerland,0,0.804444444,19,21, Gerard Moreno
-2024467,Switzerland,Turkey,250022829,,Hakan Çalhanoglu,5180,4,Attempts on target,0,8,Turkey,Attacking Midfield ,Azerbaijan,Switzerland,0,0.959259259,22,21, Hakan Çalhanoglu
-2024447,Turkey,Italy,250022829,,Hakan Çalhanoglu,5640,4,Attempts on target,0,6,Turkey,Attacking Midfield ,Italy,Italy,0,1.044444444,22,11, Hakan Çalhanoglu
-2024447,Turkey,Italy,250118078,,Halil Dervisoglu,1029,4,Attempts on target,0,6,Turkey,Attack,Italy,Italy,0,0.190555556,22,11, Halil Dervisoglu
-2024467,Switzerland,Turkey,250046542,,Irfan Can Kahveci,4826,4,Attempts on target,1,5,Turkey,Attack ,Azerbaijan,Switzerland,0,0.893703704,22,21, Irfan Can Kahveci
-2024447,Turkey,Italy,250046542,,Irfan Can Kahveci,1730,4,Attempts on target,0,6,Turkey,Attack ,Italy,Italy,0,0.32037037,22,11, Irfan Can Kahveci
-2024479,Belgium,Portugal,250101463,,João Félix,2434,4,Attempts on target,1,2,Portugal ,Attacking Midfield ,Spain,Belgium,0,0.450740741,15,2, João Félix
-2024467,Switzerland,Turkey,250050354,,Kenan Karaman,842,4,Attempts on target,0,8,Turkey,Attack,Azerbaijan,Switzerland,0,0.155925926,22,21, Kenan Karaman
-2024447,Turkey,Italy,250050354,,Kenan Karaman,4610,4,Attempts on target,0,6,Turkey,Attack,Italy,Italy,0,0.853703704,22,11, Kenan Karaman
+2024479,Belgium,Portugal,250042521,André,Silva,1559,4,Attempts on target,1,2,Portugal,Attack ,Spain,Belgium,0,0.288703704,15,2, André Silva
+2024455,Hungary,Portugal,250042521,André,Silva,868,4,Attempts on target,0,8,Portugal,Attack ,Hungary,Hungary,0,0.160740741,15,10, André Silva
+2024466,Portugal,Germany,250042521,André,Silva,684,4,Attempts on target,0,7,Portugal,Attack ,Germany,Germany,0,0.126666667,15,9, André Silva
+2024479,Belgium,Portugal,250059115,Bernardo,Silva,3454,4,Attempts on target,0,6,Portugal,Attacking Midfield ,Spain,Belgium,0,0.63962963,15,2, Bernardo Silva
+2024455,Hungary,Portugal,250059115,Bernardo,Silva,4268,4,Attempts on target,0,8,Portugal,Attacking Midfield ,Hungary,Hungary,0,0.79037037,15,10, Bernardo Silva
+2024476,Portugal,France,250059115,Bernardo,Silva,4626,4,Attempts on target,0,8,Portugal,Attacking Midfield ,Hungary,France,0,0.856666667,15,8, Bernardo Silva
+2024466,Portugal,Germany,250059115,Bernardo,Silva,2884,4,Attempts on target,0,7,Portugal,Attacking Midfield ,Germany,Germany,0,0.534074074,15,9, Bernardo Silva
+2024479,Belgium,Portugal,250078886,Bruno ,Fernandes,2432,4,Attempts on target,0,6,Portugal,Attacking Midfield ,Spain,Belgium,0,0.45037037,15,2, Bruno Fernandes
+2024455,Hungary,Portugal,250078886,Bruno ,Fernandes,5353,4,Attempts on target,1,4,Portugal,Attacking Midfield ,Hungary,Hungary,0,0.991296296,15,10, Bruno Fernandes
+2024476,Portugal,France,250078886,Bruno ,Fernandes,1392,4,Attempts on target,0,8,Portugal,Attacking Midfield ,Hungary,France,0,0.257777778,15,8, Bruno Fernandes
+2024466,Portugal,Germany,250078886,Bruno ,Fernandes,4002,4,Attempts on target,0,7,Portugal,Attacking Midfield ,Germany,Germany,0,0.741111111,15,9, Bruno Fernandes
+2024467,Switzerland,Turkey,62309,Burak,Yilmaz,5679,4,Attempts on target,0,8,Turkey,Attack ,Azerbaijan,Switzerland,0,1.051666667,22,21, Burak Yilmaz
+2024447,Turkey,Italy,62309,Burak,Yilmaz,5640,4,Attempts on target,0,6,Turkey,Attack ,Italy,Italy,0,1.044444444,22,11, Burak Yilmaz
+2024467,Switzerland,Turkey,250082680,Cengiz,Ünder,4837,4,Attempts on target,0,8,Turkey,Attack,Azerbaijan,Switzerland,0,0.895740741,22,21, Cengiz Ünder
+2024447,Turkey,Italy,250082680,Cengiz,Ünder,2884,4,Attempts on target,0,6,Turkey,Attack,Italy,Italy,0,0.534074074,22,11, Cengiz Ünder
+2024479,Belgium,Portugal,250080471,Diogo,Jota,4327,4,Attempts on target,0,6,Portugal,Attack ,Spain,Belgium,0,0.801296296,15,2, Diogo Jota
+2024455,Hungary,Portugal,250080471,Diogo,Jota,4897,4,Attempts on target,2,1,Portugal,Attack ,Hungary,Hungary,0,0.906851852,15,10, Diogo Jota
+2024476,Portugal,France,250080471,Diogo,Jota,6018,4,Attempts on target,0,8,Portugal,Attack ,Hungary,France,0,1.114444444,15,8, Diogo Jota
+2024466,Portugal,Germany,250080471,Diogo,Jota,5144,4,Attempts on target,1,3,Portugal,Attack ,Germany,Germany,0,0.952592593,15,9, Diogo Jota
+2024482,Croatia,Spain,250088320,Ferran,Torres,5318,4,Attempts on target,1,4,Spain,Attack,Denmark,Croatia,0,0.984814815,19,3, Ferran Torres
+2024489,Italy,Spain,250088320,Ferran,Torres,3665,4,Attempts on target,0,6,Spain,Attack,England,Italy,0,0.678703704,19,11, Ferran Torres
+2024473,Slovakia,Spain,250088320,Ferran,Torres,1730,4,Attempts on target,1,3,Spain,Attack,Spain,Slovakia,1,0.32037037,19,18, Ferran Torres
+2024463,Spain,Poland,250088320,Ferran,Torres,2051,4,Attempts on target,0,5,Spain,Attack,Spain,Poland,1,0.379814815,19,14, Ferran Torres
+2024453,Spain,Sweden,250088320,Ferran,Torres,4461,4,Attempts on target,1,2,Spain,Attack,Spain,Sweden,1,0.826111111,19,20, Ferran Torres
+2024485,Switzerland,Spain,250088320,Ferran,Torres,5705,4,Attempts on target,0,10,Spain,Attack,Russia,Switzerland,0,1.056481481,19,21, Ferran Torres
+2024489,Italy,Spain,250074565,Gerard,Moreno,3239,4,Attempts on target,0,6,Spain,Attack,England,Italy,0,0.599814815,19,11, Gerard Moreno
+2024473,Slovakia,Spain,250074565,Gerard,Moreno,4842,4,Attempts on target,1,3,Spain,Attack,Spain,Slovakia,1,0.896666667,19,18, Gerard Moreno
+2024463,Spain,Poland,250074565,Gerard,Moreno,4110,4,Attempts on target,0,5,Spain,Attack,Spain,Poland,1,0.761111111,19,14, Gerard Moreno
+2024453,Spain,Sweden,250074565,Gerard,Moreno,1368,4,Attempts on target,1,2,Spain,Attack,Spain,Sweden,1,0.253333333,19,20, Gerard Moreno
+2024485,Switzerland,Spain,250074565,Gerard,Moreno,4344,4,Attempts on target,3,1,Spain,Attack,Russia,Switzerland,0,0.804444444,19,21, Gerard Moreno
+2024467,Switzerland,Turkey,250022829,Hakan,Çalhanoglu,5180,4,Attempts on target,0,8,Turkey,Attacking Midfield ,Azerbaijan,Switzerland,0,0.959259259,22,21, Hakan Çalhanoglu
+2024447,Turkey,Italy,250022829,Hakan,Çalhanoglu,5640,4,Attempts on target,0,6,Turkey,Attacking Midfield ,Italy,Italy,0,1.044444444,22,11, Hakan Çalhanoglu
+2024447,Turkey,Italy,250118078,Halil,Dervisoglu,1029,4,Attempts on target,0,6,Turkey,Attack,Italy,Italy,0,0.190555556,22,11, Halil Dervisoglu
+2024467,Switzerland,Turkey,250046542,Irfan Can,Kahveci,4826,4,Attempts on target,1,5,Turkey,Attack ,Azerbaijan,Switzerland,0,0.893703704,22,21, Irfan Can Kahveci
+2024447,Turkey,Italy,250046542,Irfan Can,Kahveci,1730,4,Attempts on target,0,6,Turkey,Attack ,Italy,Italy,0,0.32037037,22,11, Irfan Can Kahveci
+2024479,Belgium,Portugal,250101463,João,Félix,2434,4,Attempts on target,1,2,Portugal ,Attacking Midfield ,Spain,Belgium,0,0.450740741,15,2, João Félix
+2024467,Switzerland,Turkey,250050354,Kenan,Karaman,842,4,Attempts on target,0,8,Turkey,Attack,Azerbaijan,Switzerland,0,0.155925926,22,21, Kenan Karaman
+2024447,Turkey,Italy,250050354,Kenan,Karaman,4610,4,Attempts on target,0,6,Turkey,Attack,Italy,Italy,0,0.853703704,22,11, Kenan Karaman
 2024441,Netherlands,Ukraine,250045024,,Marlos,3127,4,Attempts on target,0,7,Ukraine ,Attack,Netherlands,Netherlands,0,0.579074074,23,12, Marlos
 2024446,Ukraine,Austria,250045024,,Marlos,1548,4,Attempts on target,0,6,Ukraine ,Attack,Romania,Ukraine,0,0.286666667,23,23, Marlos
-2024455,Hungary,Portugal,250063447,,Rafa Silva,1497,4,Attempts on target,0,8,Portugal,Attack,Hungary,Hungary,0,0.277222222,15,10, Rafa Silva
-2024466,Portugal,Germany,250063447,,Rafa Silva,2181,4,Attempts on target,0,7,Portugal,Attack,Germany,Germany,0,0.403888889,15,9, Rafa Silva
-2024467,Switzerland,Turkey,250097254,,Yusuf Yazici,1834,4,Attempts on target,0,8,Turkey,Attacking Midfield ,Azerbaijan,Switzerland,0,0.33962963,22,21, Yusuf Yazici
-2024447,Turkey,Italy,250097254,,Yusuf Yazici,2755,4,Attempts on target,0,6,Turkey,Attacking Midfield ,Italy,Italy,0,0.510185185,22,11, Yusuf Yazici
+2024455,Hungary,Portugal,250063447,Rafa,Silva,1497,4,Attempts on target,0,8,Portugal,Attack,Hungary,Hungary,0,0.277222222,15,10, Rafa Silva
+2024466,Portugal,Germany,250063447,Rafa,Silva,2181,4,Attempts on target,0,7,Portugal,Attack,Germany,Germany,0,0.403888889,15,9, Rafa Silva
+2024467,Switzerland,Turkey,250097254,Yusuf,Yazici,1834,4,Attempts on target,0,8,Turkey,Attacking Midfield ,Azerbaijan,Switzerland,0,0.33962963,22,21, Yusuf Yazici
+2024447,Turkey,Italy,250097254,Yusuf,Yazici,2755,4,Attempts on target,0,6,Turkey,Attacking Midfield ,Italy,Italy,0,0.510185185,22,11, Yusuf Yazici
 2024462,Croatia,Czech Republic,250114001,Adam,Hložek,1811,4,Attempts on target,0,3,Czech Republic,Attack ,Scotland,Croatia,0,0.33537037,4,3,Adam Hložek
 2024471,Czech Republic,England,250114001,Adam,Hložek,1762,4,Attempts on target,0,4,Czech Republic,Attack ,England,England,0,0.326296296,4,6,Adam Hložek
 2024480,Netherlands,Czech Republic,250114001,Adam,Hložek,704,4,Attempts on target,0,5,Czech Republic,Attack ,Hungary,Netherlands,0,0.13037037,4,12,Adam Hložek
